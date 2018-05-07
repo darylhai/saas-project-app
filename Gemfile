@@ -11,6 +11,7 @@ gem 'rails', '~> 5.1.6'
 
 gem 'devise'
 gem 'milia'
+gem 'aws-sdk'
 
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
